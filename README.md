@@ -40,5 +40,5 @@ Description|Describe the contant|object
 * Python.
 
 # References :
-* [1]: https://www.kaggle.com/shivamb/netflix-shows
-* [2]: https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows
+* [1]: (https://www.kaggle.com/shivamb/netflix-shows)
+* [2]:( https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows)
