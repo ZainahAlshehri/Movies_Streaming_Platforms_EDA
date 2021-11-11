@@ -8,6 +8,8 @@ Netflix is a streaming service that offers a wide variety of award-winning TV sh
 
 The main goal of this project is to analyze Netflix Data and amazon prime in order to determine the best TV Shows & movies on streaming platforms
 # Data Describtion  
+In this project will be using the Netflix [1] and Amazon prime Video[2] dataset from Kaggle. The first dataset contains 8807 row each row represents a movie or tv show and 12 features included in our analysis. The Second dataset contains 9668 and the same of Netflix dataset features. The table below illustrates the dataset's features and their type.
+
 |Features |Descriotion|Type
 |:-------:|:-------------:|:-------:|
 Show ID|Unique Show ID|object
