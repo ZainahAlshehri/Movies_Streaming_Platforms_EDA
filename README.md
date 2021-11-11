@@ -47,4 +47,4 @@ Description|Describe the contant|object
 * [1]: ( https://www.kaggle.com/shivamb/netflix-shows)
 * [2]:( https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows)
 
-This project is in collaboration with [Aesha Aljohani] (https://github.com/Aesha-Aljohani)
+This project is in collaboration with [Aesha Aljohani](https://github.com/Aesha-Aljohani)
