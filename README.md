@@ -1,5 +1,5 @@
 # Movies_TVShows_On_Streaming_Platforms
-Movies TVShows_On_Streaming_Platforms_EDA_Project
+Movies and TVShow on Streaming Platforms EDA-Project
 
 
 
