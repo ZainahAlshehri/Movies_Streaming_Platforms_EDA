@@ -1,4 +1,5 @@
 # Movies-TVShows-On-Streaming-Platforms
+![](https://github.com/ZainahAlshehri/My-first-repo/blob/main/IMAGE.png)
 # Introduction:
 Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, documentaries and other types of videos as long as you have an internet connection. Also, allows customers to watch as much as they want whenever they want.
 
