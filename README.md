@@ -1,6 +1,4 @@
 # Movies_TVShows_On_Streaming_Platforms
-Movies and TVShow on Streaming Platforms EDA-Project
-# Movies_TVShows_On_Streaming_Platforms
 # Introduction:
 Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, documentaries and other types of videos as long as you have an internet connection. Also, allows customers to watch as much as they want whenever they want.
 
