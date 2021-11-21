@@ -3,26 +3,44 @@
 <img src="https://github.com/ZainahAlshehri/Movies_TVShows_On_Streaming_Platforms/blob/main/Proposal%20Image%20.png" width="400" height="400" />
   </p>
   
-# Introduction:
-Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, documentaries and other types of videos as long as you have an internet connection. Also, allows customers to watch as much as they want whenever they want.
+# Overview::
+Movies streaming services becoming increasingly popular, in this EDA project, We are searching for the most impressive movie library of any on-demand streaming service, with a wider range of new and classic content.
+The objective is to make a comparison and, suggest striges lead to improvement.  After asking the right questions we ready to get started. This bring us the next step which is data collection our data is collected from Kaggle website. After that,  Cleaning data this is a vital step because ultimately, the accuracy of your analysis will depend on the quality of your data.
+Finally, Visualizing data & interrupting result.Movies streaming services becoming increasingly popular, in this EDA project, We are searching for the most impressive movie library of any on-demand streaming service, with a wider range of new and classic content.
+The objective is to make a comparison and, suggest striges lead to improvement.  After asking the right questions we ready to get started. This bring us the next step which is data collection our data is collected from Kaggle website. After that,  Cleaning data this is a vital step because ultimately, the accuracy of your analysis will depend on the quality of your data.
+Finally, Visualizing data & interrupting result.
 
-The main goal of this project is to analyze Netflix Data and amazon prime in order to determine the best TV Shows & movies on streaming platforms
-# Data Describtion  
-In this project will be using the Netflix [1] and Amazon prime Video[2] dataset from Kaggle. The first dataset contains 8807 row each row represents a movie or tv show and 12 features included in our analysis. The Second dataset contains 9668 and the same of Netflix dataset features. The table below illustrates the dataset's features and their type.
+# Question/Problem statement:
+* What’s the high rated movies ? 
+* What’s the longest and the shortest runtime ?
+* Which Country has the highest content ? 
+* Which Age Category has the highest content?
 
-|Features |Descriotion|Type
-|:-------:|:-------------:|:-------:|
-Show ID|Unique Show ID|object
-Type|Movie or Tv Show|object
-Title|Title of Movie or Show|object
-Director|Director of Movie or Show|object
-Cast|	Cast of Movie / Show|object
-Date Added|Date added on Prime or Netflix|object
-Relase Year|Release Year of the movie or show|Int 64
-Rating|Rating of the movie or show|object
-Duration|Duration of the movie or show|object
-Listed In|Describe the type of contant|object
-Description|Describe the contant|object
+# Data Description:
+ * Data type: Integer, Float, Object
+ * Rows: 9515 Rows
+ * Data size [9515 rows x 16 columns]
+  In this project will be using Movies On Streaming Platforms dataset from Kaggle.
+
+
+  |Column          |Count    |Data Type | 
+  |:--------------:|:-------:|:--------:|
+0 |ID              |9515     |Int64     |   
+1 |Title           |9515     |Object    |
+2 |Year            |9515     |Int64     |
+3 |Age             |5338     |Object    |
+4 |IMDb            |9309     |Object    |
+5 |Rotten Tomatoes |9508     |Object    |
+6 |Netflix         |9515     |Int64     |
+7 |Hulu            |9515     |Int64     |
+8 |Prime Video     |9515     |Int64     |
+9 |Disney+         |9515     |Int64     |
+10|Type            |9515     |Int64     |
+11|Directors       |9104     |Object    |
+12|Generes         |9399     |Object    |
+13|Country         |9261     |Object    |
+14|Language        |9202     |Object    |
+15|Runtime         |9196     |Float64   |
 
 # Questions:
 * 	What is the Highest watched genres on Netflix and Amazon Prime.
@@ -33,18 +51,17 @@ Description|Describe the contant|object
 
 # Tools:
 ### Libraries:
-*	Pandas for data preprocessing & analysis.
-*	Numpy for numerical data manipulation.
-* Matplotlib for data visualization.
-*	Seaborn for statistical data visualization.
+Pandas, Seaborn, NumPy, Matplotlib.
+### Functions: 
+Lamda , Index , Count , Group by , dictionarie 
+### Plots:
+heatmap , histogram , world cloud  
+# Tools:
+### Programs: 
+Jupyter notebook
 
-### Technologies:
-*	SQLlite.
-* Jupyter notebook.
-* Python.
 
-# References :
-* [1]: ( https://www.kaggle.com/shivamb/netflix-shows)
-* [2]:( https://www.kaggle.com/shivamb/amazon-prime-movies-and-tv-shows)
 
-This project is in collaboration with [Aesha Aljohani](https://github.com/Aesha-Aljohani)
+
+
+
