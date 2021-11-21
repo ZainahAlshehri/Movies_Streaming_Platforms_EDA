@@ -21,8 +21,8 @@ Director|Director of Movie|object
 IMDb|IMDb rating|float64
 Type|Movie or Tv Show|object
 Rotten Tomatoes|Rotten Tomatoes %|int
-Disney+|hether the movie is found on Prime Video|object
-Netflix|Whether the movie is found on Prime Video|object
+Disney+|hether the movie is found on Disney|object
+Netflix|Whether the movie is found on Netflix|object
 Prime Video|Whether the movie is found on Prime Video|object|
 Hulu|Whether the movie is found on Hulu|object
 Genres|Type of Movie|object
