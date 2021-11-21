@@ -16,33 +16,6 @@ Finally, Visualizing data & interrupting result.
 * Which Country has the highest content ? 
 * Which Age Category has the highest content?
 
-# Data Description:
- * Data type: Integer, Float, Object
- * Rows: 9515 Rows
- * Data size [9515 rows x 16 columns]
-  In this project will be using Movies On Streaming Platforms dataset from Kaggle.
-
-
-  |Column          |Count    |Data Type | 
-  |:--------------:|:-------:|:--------:|
-0 |ID              |9515     |Int64     |   
-1 |Title           |9515     |Object    |
-2 |Year            |9515     |Int64     |
-3 |Age             |5338     |Object    |
-4 |IMDb            |9309     |Object    |
-5 |Rotten Tomatoes |9508     |Object    |
-6 |Netflix         |9515     |Int64     |
-7 |Hulu            |9515     |Int64     |
-8 |Prime Video     |9515     |Int64     |
-9 |Disney+         |9515     |Int64     |
-10|Type            |9515     |Int64     |
-11|Directors       |9104     |Object    |
-12|Generes         |9399     |Object    |
-13|Country         |9261     |Object    |
-14|Language        |9202     |Object    |
-15|Runtime         |9196     |Float64   |
-
-
 |Features |Descriotion|Type
 |:-------:|:-------------:|:-------:|
 ID|Unique movie ID|object
