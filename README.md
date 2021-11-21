@@ -3,19 +3,14 @@
 <img src="https://github.com/ZainahAlshehri/Movies_TVShows_On_Streaming_Platforms/blob/main/Proposal%20Image%20.png" width="400" height="400" />
   </p>
   
-# Overview::
+# Overview:
 Movies streaming services becoming increasingly popular, in this EDA project, We are searching for the most impressive movie library of any on-demand streaming service, with a wider range of new and classic content.
 The objective is to make a comparison and, suggest striges lead to improvement.  After asking the right questions we ready to get started. This bring us the next step which is data collection our data is collected from Kaggle website. After that,  Cleaning data this is a vital step because ultimately, the accuracy of your analysis will depend on the quality of your data.
 Finally, Visualizing data & interrupting result.Movies streaming services becoming increasingly popular, in this EDA project, We are searching for the most impressive movie library of any on-demand streaming service, with a wider range of new and classic content.
 The objective is to make a comparison and, suggest striges lead to improvement.  After asking the right questions we ready to get started. This bring us the next step which is data collection our data is collected from Kaggle website. After that,  Cleaning data this is a vital step because ultimately, the accuracy of your analysis will depend on the quality of your data.
 Finally, Visualizing data & interrupting result.
 
-# Question/Problem statement:
-* What’s the high rated movies ? 
-* What’s the longest and the shortest runtime ?
-* Which Country has the highest content ? 
-* Which Age Category has the highest content?
-
+# Data Description:
 |Features |Descriotion|Type
 |:-------:|:-------------:|:-------:|
 ID|Unique movie ID|object
@@ -33,12 +28,12 @@ Hulu|Whether the movie is found on Hulu|object
 Genres|Type of Movie|object
 Countr|producing country|object
 Run Time|Movie Duration|float64
-# Questions:
-* 	What is the Highest watched genres on Netflix and Amazon Prime.
-* What is the Most watched shows on the Netflix.
-* Which has the highest rating Tv show or Movies.
-*	Finding the best Month for releasing content.
-* The top 5  movies and TV shows.
+
+# Question/Problem statement:
+* What’s the high rated movies ? 
+* What’s the longest and the shortest runtime ?
+* Which Country has the highest content ? 
+* Which Age Category has the highest content?
 
 # Tools:
 ### Libraries:
@@ -47,9 +42,8 @@ Pandas, Seaborn, NumPy, Matplotlib.
 Lamda , Index , Count , Group by , dictionarie 
 ### Plots:
 heatmap , histogram , world cloud  
-# Tools:
 ### Programs: 
-Jupyter notebook
+Jupyter notebook (python)
 
 
 
