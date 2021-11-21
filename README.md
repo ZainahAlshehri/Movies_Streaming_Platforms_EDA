@@ -29,6 +29,7 @@ Genres|Type of Movie|object
 Countr|producing country|object
 Run Time|Movie Duration|float64
 
+In this project will be using the Movies on Streaming Platforms dataset from [Here](https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney) 
 # Question/Problem statement:
 * What’s the high rated movies ? 
 * What’s the longest and the shortest runtime ?
