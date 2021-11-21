@@ -1,4 +1,4 @@
-# MOVIES STREAMING PLATFORMS(EDA)
+# MOVIES STREAMING PLATFORMS - Proposal
 <p align="center">
 <img src="https://github.com/ZainahAlshehri/Movies_TVShows_On_Streaming_Platforms/blob/main/Proposal%20Image%20.png" width="400" height="400" />
   </p>
