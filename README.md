@@ -42,6 +42,24 @@ Finally, Visualizing data & interrupting result.
 14|Language        |9202     |Object    |
 15|Runtime         |9196     |Float64   |
 
+
+|Features |Descriotion|Type
+|:-------:|:-------------:|:-------:|
+ID|Unique movie ID|object
+Title|Title of Movie or Show|object
+Year|The year in which the movie was produced|int
+Age|Target age group|object
+Director|Director of Movie|object
+IMDb|IMDb rating|float64
+Type|Movie or Tv Show|object
+Rotten Tomatoes|Rotten Tomatoes %|int
+Disney+|hether the movie is found on Prime Video|object
+Netflix|Whether the movie is found on Prime Video|object
+Prime Video|Whether the movie is found on Prime Video|object|
+Hulu|Whether the movie is found on Hulu|object
+Genres|Type of Movie|object
+Countr|producing country|object
+Run Time|Movie Duration|float64
 # Questions:
 * 	What is the Highest watched genres on Netflix and Amazon Prime.
 * What is the Most watched shows on the Netflix.
