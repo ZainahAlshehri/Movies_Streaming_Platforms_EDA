@@ -15,16 +15,16 @@ Finally, Visualizing data & interrupting result.
 |:-------:|:-------------:|:-------:|
 ID|Unique movie ID|object
 Title|Title of Movie or Show|object
-Year|The year in which the movie was produced|int
+Year|Year of producing the movie|int
 Age|Target age group|object
 Director|Director of Movie|object
-IMDb|IMDb rating|float64
-Type|Movie or Tv Show|object
-Rotten Tomatoes|Rotten Tomatoes %|int
-Disney+|hether the movie is found on Disney|object
-Netflix|Whether the movie is found on Netflix|object
-Prime Video|Whether the movie is found on Prime Video|object|
-Hulu|Whether the movie is found on Hulu|object
+IMDb|Rating of the movie out of 10|float64
+Type|Movie |object
+Rotten Tomatoes|Rating of the movie out of 10|int
+Disney+|Included/Not Included|object
+Netflix|Included/Not Included|object
+Prime Video|Included/Not Included|object|
+Hulu|Included/Not Included|object
 Genres|Type of Movie|object
 Countr|producing country|object
 Run Time|Movie Duration|float64
