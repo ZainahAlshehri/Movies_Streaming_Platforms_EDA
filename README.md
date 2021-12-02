@@ -1,6 +1,6 @@
 # MOVIES STREAMING PLATFORMS - Proposal
 <p align="center">
-<img src="https://github.com/ZainahAlshehri/Movies_Streaming_Platforms_EDA/blob/main/Proposal%20image.png" width="400" height="400" />
+<img src="https://github.com/ZainahAlshehri/Movies_Streaming_Platforms_EDA/blob/main/Proposal%20image.png" width="400" height="300" />
   </p>
   
 # Overview:
